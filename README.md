@@ -1,9 +1,9 @@
 # DNS Spoofing Detection using Packet Monitoring Tool
 
 **Mini Project for College Assignment**  
-**Author:** [Your Name]  
-**Date:** October 2025  
-**GitHub:** `https://github.com/your-username/dns-spoofing-detector`
+**Author:** Shanjai Rathinam V  
+**Date:** 26 October 2025  
+**GitHub:** `https://github.com/shanjai-rathinam/CCS-MINI-Project`
 
 ---
 
