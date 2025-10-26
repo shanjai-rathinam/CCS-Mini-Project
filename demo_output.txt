@@ -1,0 +1,5 @@
+=== Sample Run on eth0 for 10 seconds ===
+[2025-10-26T14:20:00] QUERY: www.example.com (ID: 54321) from 192.168.1.5 to 8.8.8.8
+[2025-10-26T14:20:01] RESPONSE: www.example.com -> 93.184.216.34 (ID: 54321) from 8.8.8.8 to 192.168.1.5
+[2025-10-26T14:20:05] POTENTIAL CACHE POISONING: 2 responses for query ID 12345 (fake.com)
+=== Monitoring Stopped ===
