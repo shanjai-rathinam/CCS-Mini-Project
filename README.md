@@ -3,7 +3,7 @@
 **Mini Project for College Assignment**  
 **Author:** Shanjai Rathinam V  
 **Date:** 26 October 2025  
-**GitHub:** `https://github.com/shanjai-rathinam/CCS-MINI-Project`
+**GitHub:** `https://github.com/shanjai-rathinam/CCS-Mini-Project`
 
 ---
 
